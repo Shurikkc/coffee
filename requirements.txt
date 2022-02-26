@@ -1,0 +1,4 @@
+PyQt5.QtWidgets
+sys
+PyQt5
+sqlite3
